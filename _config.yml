@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Awesome stickers of things breathing fire. Made by father and son team, Aaron and Mozzie Aiken in Harrisburg Pennsylvania.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-tinylytics:
+tinylytics: https://tinylytics.app/embed/yGz7h37BWFJ2oJsxZrhQ.js
 primary-img-dark-scheme: /assets/img/WebsiteBannerImage.jpg
 primary-img-light-scheme: /assets/img/WebsiteBannerImage.jpg
 img-alt: Fire Breathing Stickers dot com!
